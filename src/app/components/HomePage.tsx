@@ -20,8 +20,8 @@ export function HomePage({ onNavigate }: HomePageProps) {
   });
 
   // TODO: Replace these URLs with your actual poster and PDF URLs
-  const POSTER_URL = ''; // Add your poster image URL here
-  const REPORT_URL = ''; // Add your PDF report URL here
+  const POSTER_URL = '/poster.jpg'; // Add your poster image URL here
+  const REPORT_URL = '/report.pdf'; // Add your PDF report URL here
 
   const openPoster = () => {
     setModalState({
