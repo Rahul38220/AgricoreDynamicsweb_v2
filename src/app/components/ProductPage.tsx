@@ -62,7 +62,7 @@ export function ProductPage() {
               <div className="relative pb-[56.25%]"> {/* 16:9 Aspect Ratio */}
                 <iframe
                   className="absolute top-0 left-0 w-full h-full"
-                  src="https://www.youtube.com/embed/duJzQ1Y3_Ks"
+                  src="https://www.youtube.com/embed/kc-7l47pK2U"
                   title="NutriScan Pro Demo Video"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   allowFullScreen
