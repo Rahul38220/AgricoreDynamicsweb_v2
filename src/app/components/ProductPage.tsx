@@ -278,6 +278,16 @@ export function ProductPage() {
               laboratory testing and guess-based farming practices, offering meaningful insights where traditional solutions 
               are often impractical.
             </p>
+          <div className="mt-8">
+            <span className="text-gray-400 block mb-2">Access the companion application:</span>
+            <a 
+              href="https://agricoredynamics-app.netlify.app/" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="text-emerald-400 hover:text-emerald-300 text-2xl font-semibold underline decoration-emerald-500/50 underline-offset-8 transition-all"
+            >
+              agricoredynamics-app.netlify.app
+            </a>
           </div>
         </motion.section>
       </div>
