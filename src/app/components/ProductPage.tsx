@@ -81,11 +81,11 @@ export function ProductPage() {
           className="mb-24"
         >
           <h2 className="text-4xl text-white mb-8 text-center">What It Does</h2>
-          
+
           <div className="bg-gradient-to-br from-white/5 to-white/[0.02] border border-emerald-500/20 rounded-3xl p-12 mb-12">
             <p className="text-xl text-gray-300 leading-relaxed mb-6">
-              <strong className="text-white">NutriScan Pro</strong> is a handheld soil analysis system designed to provide 
-              rapid, field-level insights into soil health. By inserting the probe into the soil, farmers can instantly view 
+              <strong className="text-white">NutriScan Pro</strong> is a handheld soil analysis system designed to provide
+              rapid, field-level insights into soil health. By inserting the probe into the soil, farmers can instantly view
               key soil parameters through a connected mobile application.
             </p>
 
@@ -213,7 +213,7 @@ export function ProductPage() {
           </div>
 
           <p className="text-gray-400 mb-8 text-lg">
-            As a working prototype, NutriScan Pro has several limitations identified through testing. 
+            As a working prototype, NutriScan Pro has several limitations identified through testing.
             We believe transparency is essential and these constraints guide future improvements:
           </p>
 
@@ -273,21 +273,22 @@ export function ProductPage() {
           <div className="bg-gradient-to-br from-emerald-500/10 to-teal-500/10 border border-emerald-500/30 rounded-3xl p-12 text-center">
             <h2 className="text-3xl text-white mb-6">Conclusion</h2>
             <p className="text-xl text-gray-300 leading-relaxed max-w-4xl mx-auto">
-              Despite these limitations, <strong className="text-white">NutriScan Pro</strong> demonstrates the feasibility 
-              of fast, affordable, and accessible soil diagnostics at the field level. It bridges the gap between costly 
-              laboratory testing and guess-based farming practices, offering meaningful insights where traditional solutions 
+              Despite these limitations, <strong className="text-white">NutriScan Pro</strong> demonstrates the feasibility
+              of fast, affordable, and accessible soil diagnostics at the field level. It bridges the gap between costly
+              laboratory testing and guess-based farming practices, offering meaningful insights where traditional solutions
               are often impractical.
             </p>
-          <div className="mt-8">
-            <span className="text-gray-400 block mb-2">Access the companion application:</span>
-            <a 
-              href="https://agricoredynamics-app.netlify.app/" 
-              target="_blank" 
-              rel="noopener noreferrer" 
-              className="text-emerald-400 hover:text-emerald-300 text-2xl font-semibold underline decoration-emerald-500/50 underline-offset-8 transition-all"
-            >
-              agricoredynamics-app.netlify.app
-            </a>
+            <div className="mt-8">
+              <span className="text-gray-400 block mb-2">Access the companion application:</span>
+              <a
+                href="https://agricoredynamics-app.netlify.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-emerald-400 hover:text-emerald-300 text-2xl font-semibold underline decoration-emerald-500/50 underline-offset-8 transition-all"
+              >
+                agricoredynamics-app.netlify.app
+              </a>
+            </div>
           </div>
         </motion.section>
       </div>
